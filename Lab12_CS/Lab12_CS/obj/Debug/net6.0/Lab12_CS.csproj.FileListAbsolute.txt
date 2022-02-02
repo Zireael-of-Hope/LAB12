@@ -1,0 +1,15 @@
+C:\Users\clark\source\repos\Lab12_CS\Lab12_CS\bin\Debug\net6.0\Lab12_CS.exe
+C:\Users\clark\source\repos\Lab12_CS\Lab12_CS\bin\Debug\net6.0\Lab12_CS.deps.json
+C:\Users\clark\source\repos\Lab12_CS\Lab12_CS\bin\Debug\net6.0\Lab12_CS.runtimeconfig.json
+C:\Users\clark\source\repos\Lab12_CS\Lab12_CS\bin\Debug\net6.0\Lab12_CS.dll
+C:\Users\clark\source\repos\Lab12_CS\Lab12_CS\bin\Debug\net6.0\ref\Lab12_CS.dll
+C:\Users\clark\source\repos\Lab12_CS\Lab12_CS\bin\Debug\net6.0\Lab12_CS.pdb
+C:\Users\clark\source\repos\Lab12_CS\Lab12_CS\obj\Debug\net6.0\Lab12_CS.csproj.AssemblyReference.cache
+C:\Users\clark\source\repos\Lab12_CS\Lab12_CS\obj\Debug\net6.0\Lab12_CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clark\source\repos\Lab12_CS\Lab12_CS\obj\Debug\net6.0\Lab12_CS.AssemblyInfoInputs.cache
+C:\Users\clark\source\repos\Lab12_CS\Lab12_CS\obj\Debug\net6.0\Lab12_CS.AssemblyInfo.cs
+C:\Users\clark\source\repos\Lab12_CS\Lab12_CS\obj\Debug\net6.0\Lab12_CS.csproj.CoreCompileInputs.cache
+C:\Users\clark\source\repos\Lab12_CS\Lab12_CS\obj\Debug\net6.0\Lab12_CS.dll
+C:\Users\clark\source\repos\Lab12_CS\Lab12_CS\obj\Debug\net6.0\ref\Lab12_CS.dll
+C:\Users\clark\source\repos\Lab12_CS\Lab12_CS\obj\Debug\net6.0\Lab12_CS.pdb
+C:\Users\clark\source\repos\Lab12_CS\Lab12_CS\obj\Debug\net6.0\Lab12_CS.genruntimeconfig.cache
